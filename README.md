@@ -29,10 +29,10 @@ I am a second-year student in Artificial Intelligence & Machine Learning (AIML) 
 
 ---
 
-### 📈 GitHub Stats
-
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshadtech2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshadtech2&layout=compact&theme=radical)
+### 🔭 Currently Working On
+- 🤖 Deepening my knowledge in **Neural Networks** and **Deep Learning**.
+- 📊 Building a data visualization dashboard using **Matplotlib**.
+- 🐍 Contributing to open-source Python projects.
 
 ---
 
