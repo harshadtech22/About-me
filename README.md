@@ -31,8 +31,8 @@ I am a second-year student in Artificial Intelligence & Machine Learning (AIML) 
 
 ### 📈 GitHub Stats
 
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshadtech2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshadtech2&layout=compact&theme=radical)
 
 ---
 
